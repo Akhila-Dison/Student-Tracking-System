@@ -13,14 +13,14 @@ Modules
 
 Software Requirements
 ---------------------
-Operating system  : Windows 10
-Platform          : Python IDLE
-Front end tool    : Python
-Back end tool     : MySQL
+Operating system  : Windows 10;
+Platform          : Python IDLE;
+Front end tool    : Python;
+Back end tool     : MySQL;
 
 Libraries
 ----------
-Tkinter
-Speech Recognition
-Pyttsx3(Python Text to Speech Converter)
-Twilio
+1) Tkinter
+2) Speech Recognition
+3) Pyttsx3(Python Text to Speech Converter)
+4) Twilio
