@@ -13,10 +13,10 @@ Modules
 
 Software Requirements
 ---------------------
-Operating system  : Windows 10;
-Platform          : Python IDLE;
-Front end tool    : Python;
-Back end tool     : MySQL;
+1) Operating system  : Windows 10;
+2) Platform          : Python IDLE;
+3) Front end tool    : Python;
+4) Back end tool     : MySQL;
 
 Libraries
 ----------
